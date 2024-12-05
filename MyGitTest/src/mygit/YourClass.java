@@ -1,7 +1,8 @@
 package mygit;
 
 public class YourClass {
-	public void sayLello(String toWhom) {
+	public void sayHello(String toWhom) {
 		System.out.println("Hello!" + toWhom);
+		System.out.println("YourClass changed in master branch");
 	}
 }
